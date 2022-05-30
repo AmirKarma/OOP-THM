@@ -1,4 +1,4 @@
-package Uebung.Konto;
+package uebung.Konto;
 
 public class Konto{
     private int kontonummer;

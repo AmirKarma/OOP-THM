@@ -1,4 +1,4 @@
-package Uebung.Box;
+package uebung.box;
 
 public class Box {
     private int length;
@@ -35,7 +35,7 @@ public class Box {
 
     @Override
     public String toString(){
-        if(isCube()) return "Haha";
-        else return "lol";
+        if(isCube()) return "Cube: Volume: " + getVolume() + " Öberfläsche: " + getSurfaceArea();
+        else return "Rechteck: Volume: " + getVolume() + " Öberfläsche: " + getSurfaceArea();
     }
 }

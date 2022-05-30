@@ -1,6 +1,4 @@
-package Uebung.Konto;
-
-import Uebung.Konto.Konto;
+package uebung.Konto;
 
 public class Main {
 
