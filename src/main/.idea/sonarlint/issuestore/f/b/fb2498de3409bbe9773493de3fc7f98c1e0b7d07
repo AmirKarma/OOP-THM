@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È«™¼þÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "finnsBox".(’Ê·Áúÿÿÿÿ
+H
+java:S1481"-Remove this unused "finnsBox" local variable.(’Ê·Áúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Š¸§
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÏ«ùÿÿÿÿ8Ý¾Ã0
